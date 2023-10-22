@@ -1,0 +1,25 @@
+/* OrderBooking.scss */
+
+.order-booking {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+
+  h2 {
+      font-size: 1.5rem;
+      margin-bottom: 10px;
+  }
+
+  ul {
+      list-style: none;
+      padding: 0;
+
+      li {
+          margin: 10px 0;
+          p {
+              margin: 5px 0;
+          }
+      }
+  }
+}
